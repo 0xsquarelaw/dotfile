@@ -3,15 +3,30 @@ SCRIPT_DIR="$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")"
 RADIO_FILE="$SCRIPT_DIR/radio-list.txt"
 YT_FILE="$SCRIPT_DIR/youtube-list.txt"
 
+NOW_PLAYING=""   # in-memory only, never written to disk
+
 set_title() { printf '\033]0;%s\007' "$1"; }
 
-stop_playback() { pkill mpv 2>/dev/null; }
+stop_playback() {
+  pkill mpv 2>/dev/null
+  NOW_PLAYING=""          # clear immediately — no race with pgrep
+}
 
 play() {
   local name="$1" url="$2"
   stop_playback
+  NOW_PLAYING="$name"     # set before mpv launches
   set_title "▶ $name"
   mpv --no-video --ytdl-format=bestaudio "$url" >/dev/null 2>&1 &
+}
+
+status() {
+  if [[ -n "$NOW_PLAYING" ]] && pgrep mpv >/dev/null 2>&1; then
+    echo "▶  $NOW_PLAYING"   # shows the station name
+  else
+    NOW_PLAYING=""            # self-heal if mpv died on its own
+    echo "■  Stopped"
+  fi
 }
 
 parse_line() {
@@ -51,10 +66,6 @@ play_from() {
   [[ "$sel" == "⬅ Back" ]] && return
   get_info "$file" "$sel"
   [[ -n "$INFO_URL" ]] && play "$sel" "$INFO_URL"
-}
-
-status() {
-  pgrep mpv >/dev/null && echo "▶ Playing" || echo "■ Stopped"
 }
 
 home_menu() {
