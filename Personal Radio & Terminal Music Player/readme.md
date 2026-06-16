@@ -1,71 +1,77 @@
 # radio.sh
-A minimal terminal radio player using `fzf` and `mpv`.
+A minimal terminal radio and YouTube player using `fzf` and `mpv`.
 
 ---
+
 ## Dependencies
+
 | Tool | Purpose | Install |
 |------|---------|---------|
 | `mpv` | Audio playback | `sudo apt install mpv` / `brew install mpv` |
 | `fzf` | Interactive menu | `sudo apt install fzf` / `brew install fzf` |
-| `yt-dlp` | Stream URL resolution (YouTube etc.) | `pip install yt-dlp` |
+| `yt-dlp` | YouTube stream resolution | `pip install yt-dlp` |
 
 > `yt-dlp` must be available in `$PATH`. mpv uses it internally via `--ytdl-format=bestaudio`.
 
 ---
+
 ## Setup
+
 ```bash
 chmod +x radio.sh
-touch \~/stations.txt   # add your stations (see format below)
+touch ~/radio-list.txt    # add radio stations
+touch ~/youtube-list.txt  # add YouTube videos/playlists
 ./radio.sh
 ```
+
 ---
-## stations.txt Format
-Located at `\~/stations.txt`. One station per line.
 
-### With type prefix
-```
-type: Name, url
-```
-| Type | Color | Example |
-|------|-------|---------|
-| `radio` | Yellow | `radio: BBC World Service, https://stream.live.vc.bbcmedia.co.uk/bbc\_world\_service` |
-| `yt-video` | Red | `yt-video: Lofi Girl Live, https://www.youtube.com/watch?v=jfKfPfyJRdk` |
-| `yt-playlist` | Orange | `yt-playlist: Jazz Collection, https://www.youtube.com/playlist?list=...` |
+## List File Format
 
-### Without type prefix
-No color tag is shown in the picker.
-```
-Name, url
-```
+Two separate files at `~/radio-list.txt` and `~/youtube-list.txt`. One entry per line:
 
 ```
-India, https://www.youtube.com/watch?v=6qeFCdscf58
+Name, URL
 ```
-### Full example
+
+### radio-list.txt
 ```
-radio: BBC World Service, https://stream.live.vc.bbcmedia.co.uk/bbc\_world\_service
-radio: Australian Indian Radio, http://webcast.indianradio.net.au:8000/
-yt-video: Lofi Girl Live, https://www.youtube.com/watch?v=jfKfPfyJRdk
-yt-playlist: Hindi Hits, https://www.youtube.com/playlist?list=...
-yt-playlist: Jazz Collection, https://www.youtube.com/playlist?list=...
-India, https://www.youtube.com/watch?v=6qeFCdscf58
+BBC World Service, https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+Australian Indian Radio, http://webcast.indianradio.net.au:8000/
 ```
+
+### youtube-list.txt
+```
+Lofi Girl Live, https://www.youtube.com/watch?v=jfKfPfyJRdk
+Jazz Collection, https://www.youtube.com/playlist?list=...
+```
+
+---
 
 ## Menu
 
 | Option | Action |
 |--------|--------|
-| Play | Open station picker |
+| Play | Choose source, then pick a station |
 | Stop | Stop current playback |
 | Exit | Stop and quit |
 
-Status line shows current state — `▶ Now Playing: \[type] Name` or `■ Stopped`.
+Status line in the header shows `▶ Playing` or `■ Stopped`.
 
 ---
-## Station Picker
-- Fuzzy search by name or type (e.g. type `radio` to filter only radio streams)
 
-- Select `⬅ Back` or press `Esc` to return without playing
+## Play Flow
+
+```
+Radio > Play
+  └── Source > Radio / YouTube
+        └── Station > <fuzzy pick>
+```
+
+Select `⬅ Back` or press `Esc` at any level to return to the previous menu.
+
 ---
+
 ## Terminal Tab Title
-Shows `▶ Name` while playing, clears on exit.
+
+Shows `▶ Name` while playing, resets to `radio` on stop, clears on exit.

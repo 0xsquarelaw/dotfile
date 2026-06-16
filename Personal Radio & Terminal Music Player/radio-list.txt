@@ -1,0 +1,325 @@
+Australian Indian Radio,http://webcast.indianradio.net.au:8000/
+Mixify Evergreen Hits, https://server.mixify.in/listen/evergreen/radio.mp3
+Mixify Hindi Hits, https://server.mixify.in/listen/new_hits/radio.mp3
+Mixify 90's Hits, https://server.mixify.in/listen/listen/radio.mp3
+BMZ Radio, http://stream.zeno.fm/uy91e749fv8uv
+Aasman Radio France, https://aasman_radio.ice.infomaniak.ch/aasmanradio.mp3
+Shalom Beats Radio Hindi, http://rd.shalombeatsradio.com:7090/stream
+Hindi Desi Bollywood Evergreen Hits Channel 1, https://cast2.asurahosting.com/proxy/hindi/stream
+Pinoyheartfm.com, https://cast-02.6fmbisdaklamiontambayan.com/listen/02.6_fm_bisdak_lamion_tambayan/radio.mp3
+Replay News Hindi France, https://replaynewshi.ice.infomaniak.ch/replaynewshi-128.mp3
+Akashvani Kanpur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio194/playlist.m3u8
+FM Rainbow Kanpur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio058/playlist.m3u8
+Akashvani Lucknow,https://air.pc.cdn.bitgravity.com/air/live/pbaudio046/playlist.m3u8
+FM Rainbow Lucknow,https://air.pc.cdn.bitgravity.com/air/live/pbaudio047/playlist.m3u8
+Akashvani Mathura,https://air.pc.cdn.bitgravity.com/air/live/pbaudio067/playlist.m3u8
+Akashvani Najibabad,https://air.pc.cdn.bitgravity.com/air/live/pbaudio162/playlist.m3u8
+Akashvani Obra,https://air.pc.cdn.bitgravity.com/air/live/pbaudio235/playlist.m3u8
+Akashvani Rampur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio179/playlist.m3u8
+Akashvani Varanasi,https://air.pc.cdn.bitgravity.com/air/live/pbaudio094/playlist.m3u8
+Akashvani Almora,https://air.pc.cdn.bitgravity.com/air/live/pbaudio122/playlist.m3u8
+Akashvani Dehradun,https://air.pc.cdn.bitgravity.com/air/live/pbaudio191/playlist.m3u8
+Akashvani Pauri,https://air.pc.cdn.bitgravity.com/air/live/pbaudio107/playlist.m3u8
+Akashvani Bangla,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio137/hlspbaudio137_Auto.m3u8
+Akashvani Kolkata Geetanjali,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio055/hlspbaudio055_Auto.m3u8
+Akashvani Kolkata Sanchayita,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio056/hlspbaudio056_Auto.m3u8
+FM Gold Kolkata,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio057/hlspbaudio057_Auto.m3u8
+FM Rainbow Kolkata,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio058/hlspbaudio058_Auto.m3u8
+vbs Kolkata,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio275/hlspbaudio275_Auto.m3u8
+Akashvani Kurseong,https://air.pc.cdn.bitgravity.com/air/live/pbaudio183/playlist.m3u8
+Akashvani Murshidabad,https://air.pc.cdn.bitgravity.com/air/live/pbaudio169/playlist.m3u8
+Akashvani Shantiniketan,https://air.pc.cdn.bitgravity.com/air/live/pbaudio247/playlist.m3u8
+Akashvani Maitree,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio245/hlspbaudio245_Auto.m3u8
+Akashvani Siliguri,https://air.pc.cdn.bitgravity.com/air/live/pbaudio164/playlist.m3u8
+Akashvani Gujarati,https://air.pc.cdn.bitgravity.com/air/live/pbaudio135/playlist.m3u8
+Akashvani Kokrajhar,https://air.pc.cdn.bitgravity.com/air/live/pbaudio055/playlist.m3u8
+Akashvani Aaradhana,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio003/hlspbaudio003_Auto.m3u8
+FM Rainbow Chennai,https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/playlist.m3u8
+Live News 24x7,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8
+Akasvani Marathi Mumbai Ashmita,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio010_Auto.m3u8
+Akashvani Punjabi,https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/playlist.m3u8
+Raagam,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam_Auto.m3u8
+FM Gold Delhi,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8
+FM Rainbow Delhi,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8
+Akashvani Kerla,https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8
+Akashvani Tamil Nadu,https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8
+Vividh Bharati,https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
+Akashvani Aadilabad,https://air.pc.cdn.bitgravity.com/air/live/pbaudio218/playlist.m3u8
+Akashvani Delhi Indraprastha,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio006_Auto.m3u8
+VBS Delhi,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio238/hlspbaudio238_Auto.m3u8
+Akashvani Port Blair,https://air.pc.cdn.bitgravity.com/air/live/pbaudio038/playlist.m3u8
+Akashvani Anantapur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio054/playlist.m3u8
+Akashvani Kadapa,https://air.pc.cdn.bitgravity.com/air/live/pbaudio018/playlist.m3u8
+Akashvani Kurnool,https://air.pc.cdn.bitgravity.com/air/live/pbaudio052/playlist.m3u8
+Akashvani Markapur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio039/playlist.m3u8
+FM Simhapuri Nellore,https://air.pc.cdn.bitgravity.com/air/live/pbaudio168/playlist.m3u8
+Akashvani Tirupati,https://air.pc.cdn.bitgravity.com/air/live/pbaudio144/playlist.m3u8
+Akasvani Andhra Pradesh,https://air.pc.cdn.bitgravity.com/air/live/pbaudio175/playlist.m3u8
+FM Rainbow Vijayawada,https://air.pc.cdn.bitgravity.com/air/live/pbaudio174/playlist.m3u8
+VB Telugu Vijayawada,https://air.pc.cdn.bitgravity.com/air/live/pbaudio176/playlist.m3u8
+Akashvani Visakhapatnam,https://air.pc.cdn.bitgravity.com/air/live/pbaudio080/playlist.m3u8
+FM Rainbow Visakhapatnam,https://air.pc.cdn.bitgravity.com/air/live/pbaudio081/playlist.m3u8
+Akashvani Itanagar,https://air.pc.cdn.bitgravity.com/air/live/pbaudio277/playlist.m3u8
+FM Arun Itanagar,https://air.pc.cdn.bitgravity.com/air/live/pbaudio234/playlist.m3u8
+Akashvani Pasighat,https://air.pc.cdn.bitgravity.com/air/live/pbaudio268/playlist.m3u8
+Akashvani Tawang,https://air.pc.cdn.bitgravity.com/air/live/pbaudio272/playlist.m3u8
+Akashvani Tezu,https://air.pc.cdn.bitgravity.com/air/live/pbaudio267/playlist.m3u8
+Akashvani Dibrugarh,https://air.pc.cdn.bitgravity.com/air/live/pbaudio255/playlist.m3u8
+Akashvani Diphu,https://air.pc.cdn.bitgravity.com/air/live/pbaudio271/playlist.m3u8
+Akashvani Guwahati Mahabahu,https://air.pc.cdn.bitgravity.com/air/live/pbaudio133/playlist.m3u8
+Akashvani Guwahati Pragjyotishpur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio237/playlist.m3u8
+Akashvani Haflong,https://air.pc.cdn.bitgravity.com/air/live/pbaudio258/playlist.m3u8
+Akashvani Jorhat,https://air.pc.cdn.bitgravity.com/air/live/pbaudio261/playlist.m3u8
+Akashvani Nagaon,https://air.pc.cdn.bitgravity.com/air/live/pbaudio260/playlist.m3u8
+Akashvani Silchar,https://air.pc.cdn.bitgravity.com/air/live/pbaudio090/playlist.m3u8
+Akashvani Tezpur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio270/playlist.m3u8
+Akashvani Bhagalpur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio292/playlist.m3u8
+Akashvani Darbhanga,https://air.pc.cdn.bitgravity.com/air/live/pbaudio160/playlist.m3u8
+Akashvani Patna,https://air.pc.cdn.bitgravity.com/air/live/pbaudio087/playlist.m3u8
+FM Rainbow Patna,https://air.pc.cdn.bitgravity.com/air/live/pbaudio252/playlist.m3u8
+VBS Patna,https://air.pc.cdn.bitgravity.com/air/live/pbaudio251/playlist.m3u8
+Akashvani Purnia Bihar,https://air.pc.cdn.bitgravity.com/air/live/pbaudio147/playlist.m3u8
+Akashvani Sasaram,https://air.pc.cdn.bitgravity.com/air/live/pbaudio075/playlist.m3u8
+Akashvani Chandigarh,https://air.pc.cdn.bitgravity.com/air/live/pbaudio111/playlist.m3u8
+Akashvani Ambikapur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio086/playlist.m3u8
+Akashvani Bilaspur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio110/playlist.m3u8
+Akashvani Jagdalpur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio201/playlist.m3u8
+Akashvani Raigarh,https://air.pc.cdn.bitgravity.com/air/live/pbaudio196/playlist.m3u8
+Akashvani Chhattisgarh,https://air.pc.cdn.bitgravity.com/air/live/pbaudio118/playlist.m3u8
+VBS Raipur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio279/playlist.m3u8
+Akashvani Saraipali,https://air.pc.cdn.bitgravity.com/air/live/pbaudio254/playlist.m3u8
+Akashvani Daman,https://air.pc.cdn.bitgravity.com/air/live/pbaudio208/playlist.m3u8
+Akashvani Mahadei Panaji,https://air.pc.cdn.bitgravity.com/air/live/pbaudio049/playlist.m3u8
+VBS Panaji,https://air.pc.cdn.bitgravity.com/air/live/pbaudio280/playlist.m3u8
+VBS Ahmedabad,https://air.pc.cdn.bitgravity.com/air/live/pbaudio037/playlist.m3u8
+Akashvani Ahwa,https://air.pc.cdn.bitgravity.com/air/live/pbaudio236/playlist.m3u8
+Akashvani Bhuj,https://air.pc.cdn.bitgravity.com/air/live/pbaudio195/playlist.m3u8
+Akashvani Godhra,https://air.pc.cdn.bitgravity.com/air/live/pbaudio114/playlist.m3u8
+Akashvani Himmatnagar,https://air.pc.cdn.bitgravity.com/air/live/pbaudio217/playlist.m3u8
+Akashvani Rajkot,https://air.pc.cdn.bitgravity.com/air/live/pbaudio155/playlist.m3u8
+VBS Rajkot,https://air.pc.cdn.bitgravity.com/air/live/pbaudio156/playlist.m3u8
+Akashvani Surat,https://air.pc.cdn.bitgravity.com/air/live/pbaudio186/playlist.m3u8
+Akashvani Vadodara,https://air.pc.cdn.bitgravity.com/air/live/pbaudio095/playlist.m3u8
+Akashvani Hisar,https://air.pc.cdn.bitgravity.com/air/live/pbaudio165/playlist.m3u8
+Akashvani Kurukshetra,https://air.pc.cdn.bitgravity.com/air/live/pbaudio213/playlist.m3u8
+Akashvani Rohtak,https://air.pc.cdn.bitgravity.com/air/live/pbaudio188/playlist.m3u8
+Akashvani Dharamshala,https://air.pc.cdn.bitgravity.com/air/live/pbaudio165/playlist.m3u8
+Akashvani Hamirpur FM,https://air.pc.cdn.bitgravity.com/air/live/pbaudio243/playlist.m3u8
+Akashvani Shimla,https://air.pc.cdn.bitgravity.com/air/live/pbaudio043/playlist.m3u8
+Akashvani Shimla FM,https://air.pc.cdn.bitgravity.com/air/live/pbaudio042/playlist.m3u8
+Akashvani Bhaderwah,https://air.pc.cdn.bitgravity.com/air/live/pbaudio246/playlist.m3u8
+Akashvani Jammu,https://air.pc.cdn.bitgravity.com/air/live/pbaudio128/playlist.m3u8
+Akashvani Kathua,https://air.pc.cdn.bitgravity.com/air/live/pbaudio190/playlist.m3u8
+Akashvani Srinagar,https://air.pc.cdn.bitgravity.com/air/live/pbaudio136/playlist.m3u8
+Akashvani Chaibasa,https://air.pc.cdn.bitgravity.com/air/live/pbaudio224/playlist.m3u8
+Akashvani Daltonganj,https://air.pc.cdn.bitgravity.com/air/live/pbaudio202/playlist.m3u8
+Akashvani Hazaribagh,https://air.pc.cdn.bitgravity.com/air/live/pbaudio197/playlist.m3u8
+Akashvani Jamshedpur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio216/playlist.m3u8
+VBS Jamshedpur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio266/playlist.m3u8
+Akashvani Ranchi,https://air.pc.cdn.bitgravity.com/air/live/pbaudio199/playlist.m3u8
+FM Rainbow Ranchi,https://air.pc.cdn.bitgravity.com/air/live/pbaudio253/playlist.m3u8
+VBS Ranchi,https://air.pc.cdn.bitgravity.com/air/live/pbaudio250/playlist.m3u8
+Akashvani Bellari,https://air.pc.cdn.bitgravity.com/air/live/pbaudio114/playlist.m3u8
+Akashvani Karnataka,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio030/hlspbaudio030_Auto.m3u8
+Amrutvarshini,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio028/hlspbaudio028_Auto.m3u8
+Rainbow Kannada Kaamanbilu,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio027/hlspbaudio027_Auto.m3u8
+VB KANNADA,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio026/hlspbaudio026_Auto.m3u8
+Akashvani Bhadravati,https://air.pc.cdn.bitgravity.com/air/live/pbaudio211/playlist.m3u8
+Akashvani Bijapur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio145/playlist.m3u8
+Akashvani Chitradurga,https://air.pc.cdn.bitgravity.com/air/live/pbaudio105/playlist.m3u8
+Akashvani Dharwad,https://air.pc.cdn.bitgravity.com/air/live/pbaudio150/playlist.m3u8
+Akashvani Kalaburgi (Gulbarga),https://air.pc.cdn.bitgravity.com/air/live/pbaudio015/playlist.m3u8
+Akashvani Hassan,https://air.pc.cdn.bitgravity.com/air/live/pbaudio172/playlist.m3u8
+Akashvani Hospet,https://air.pc.cdn.bitgravity.com/air/live/pbaudio184/playlist.m3u8
+Akashvani Karwar,https://air.pc.cdn.bitgravity.com/air/live/pbaudio123/playlist.m3u8
+Akashvani Mysuru,https://air.pc.cdn.bitgravity.com/air/live/pbaudio177/playlist.m3u8
+Akashvani Mangalore,https://air.pc.cdn.bitgravity.com/air/live/pbaudio073/playlist.m3u8
+Akashvani Madikeri,https://air.pc.cdn.bitgravity.com/air/live/pbaudio068/playlist.m3u8
+Akashvani Raichur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio198/playlist.m3u8
+Akashvani Devikulam,https://air.pc.cdn.bitgravity.com/air/live/pbaudio214/playlist.m3u8
+Akashvani Kannur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio173/playlist.m3u8
+FM Rainbow Kochi,https://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8
+Akashvani Kochi,https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/playlist.m3u8
+Akashvani Calicut,https://air.pc.cdn.bitgravity.com/air/live/pbaudio082/playlist.m3u8
+Akashvani Kozhikode Real FM,https://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8
+Akashvani Manjeri,https://air.pc.cdn.bitgravity.com/air/live/pbaudio101/playlist.m3u8
+Akashvani Trissur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio036/playlist.m3u8
+VB MALAYALAM,https://air.pc.cdn.bitgravity.com/air/live/pbaudio229/playlist.m3u8
+Akashvani Kargil,https://air.pc.cdn.bitgravity.com/air/live/pbaudio066/playlist.m3u8
+Akashvani Leh,https://air.pc.cdn.bitgravity.com/air/live/pbaudio223/playlist.m3u8
+Akashvani Kavaratti,https://air.pc.cdn.bitgravity.com/air/live/pbaudio189/playlist.m3u8
+Akashvani Balaghat,https://air.pc.cdn.bitgravity.com/air/live/pbaudio091/playlist.m3u8
+Akashvani Betul,https://air.pc.cdn.bitgravity.com/air/live/pbaudio108/playlist.m3u8
+Akashvani Bhopal,https://air.pc.cdn.bitgravity.com/air/live/pbaudio146/playlist.m3u8
+VBS Bhopal,https://air.pc.cdn.bitgravity.com/air/live/pbaudio248/playlist.m3u8
+Akashvani Chhatarpur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio104/playlist.m3u8
+Akashvani Chhindwara,https://air.pc.cdn.bitgravity.com/air/live/pbaudio113/playlist.m3u8
+Akashvani Guna,https://air.pc.cdn.bitgravity.com/air/live/pbaudio115/playlist.m3u8
+Akashvani Gwalior,https://air.pc.cdn.bitgravity.com/air/live/pbaudio205/playlist.m3u8
+Akashvani Indore,https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8
+VBS Indore,https://air.pc.cdn.bitgravity.com/air/live/pbaudio241/playlist.m3u8
+Akashvani Jabalpur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio167/playlist.m3u8
+Akashvani Jabalpur FM,https://air.pc.cdn.bitgravity.com/air/live/pbaudio240/playlist.m3u8
+Akashvani Khandwa,https://air.pc.cdn.bitgravity.com/air/live/pbaudio143/playlist.m3u8
+Akashvani Rewa,https://air.pc.cdn.bitgravity.com/air/live/pbaudio225/playlist.m3u8
+Akashvani Sagar,https://air.pc.cdn.bitgravity.com/air/live/pbaudio204/playlist.m3u8
+Akashvani Shahdol,https://air.pc.cdn.bitgravity.com/air/live/pbaudio228/playlist.m3u8
+Akashvani Shivpuri,https://air.pc.cdn.bitgravity.com/air/live/pbaudio171/playlist.m3u8
+Akashvani Ahilyanagar,https://air.pc.cdn.bitgravity.com/air/live/pbaudio019/playlist.m3u8
+Akashvani Akola,https://air.pc.cdn.bitgravity.com/air/live/pbaudio178/playlist.m3u8
+Akashvani Amravati,https://air.pc.cdn.bitgravity.com/air/live/pbaudio151/playlist.m3u8
+Akashvani Chhatrapati Sambhaji Nagar,https://air.pc.cdn.bitgravity.com/air/live/pbaudio065/playlist.m3u8
+Akashvani Beed,https://air.pc.cdn.bitgravity.com/air/live/pbaudio077/playlist.m3u8
+Akashvani Chandrapur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio074/playlist.m3u8
+Akashvani Dhule,https://air.pc.cdn.bitgravity.com/air/live/pbaudio079/playlist.m3u8
+Akashvani Jalgaon,https://air.pc.cdn.bitgravity.com/air/live/pbaudio096/playlist.m3u8
+Akashvani Kolhapur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio063/playlist.m3u8
+FM Gold Mumbai,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio007/hlspbaudio007_Auto.m3u8
+FM Rainbow Mumbai,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio008/hlspbaudio008_Auto.m3u8
+Sanvadita Mumbai,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio009/hlspbaudio009_Auto.m3u8
+VBS Mumbai,https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio011/hlspbaudio011_Auto.m3u8
+VBS Nagpur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio070/playlist.m3u8
+Akashvani Nagpur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio069/playlist.m3u8
+Akashvani Nanded,https://air.pc.cdn.bitgravity.com/air/live/pbaudio072/playlist.m3u8
+Akashvani Nasik,https://air.pc.cdn.bitgravity.com/air/live/pbaudio035/playlist.m3u8
+Akashvani Dharashiv,https://air.pc.cdn.bitgravity.com/air/live/pbaudio132/playlist.m3u8
+Akashvani Parbhani,https://air.pc.cdn.bitgravity.com/air/live/pbaudio085/playlist.m3u8
+Akashvani Pune,https://air.pc.cdn.bitgravity.com/air/live/pbaudio012/playlist.m3u8
+Akashvani Pune FM,https://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8
+Akashvani Ratnagiri,https://air.pc.cdn.bitgravity.com/air/live/pbaudio071/playlist.m3u8
+Akashvani Sindhudurg,https://air.pc.cdn.bitgravity.com/air/live/pbaudio219/playlist.m3u8
+Akashvani Sangli,https://air.pc.cdn.bitgravity.com/air/live/pbaudio106/playlist.m3u8
+Akashvani Satara,https://air.pc.cdn.bitgravity.com/air/live/pbaudio076/playlist.m3u8
+Akashvani Solapur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio093/playlist.m3u8
+Akashvani Yavatmal,https://air.pc.cdn.bitgravity.com/air/live/pbaudio109/playlist.m3u8
+Akashvani Churachandpur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio273/playlist.m3u8
+Akashvani Imphal Kangla,https://air.pc.cdn.bitgravity.com/air/live/pbaudio209/playlist.m3u8
+Akashvani Imphal Sangai,https://air.pc.cdn.bitgravity.com/air/live/pbaudio210/playlist.m3u8
+Akashvani Jowai,https://air.pc.cdn.bitgravity.com/air/live/pbaudio265/playlist.m3u8
+Akashvani Shillong,https://air.pc.cdn.bitgravity.com/air/live/pbaudio161/playlist.m3u8
+FM Jongphi Shillong,https://air.pc.cdn.bitgravity.com/air/live/pbaudio264/playlist.m3u8
+Akashvani North East Livestream,https://air.pc.cdn.bitgravity.com/air/live/pbaudio249/playlist.m3u8
+Akashvani Tura,https://air.pc.cdn.bitgravity.com/air/live/pbaudio259/playlist.m3u8
+Akashvani Aizawl,https://air.pc.cdn.bitgravity.com/air/live/pbaudio221/playlist.m3u8
+FM Zowai Aizawl,https://air.pc.cdn.bitgravity.com/air/live/pbaudio242/playlist.m3u8
+Akashvani Lunglei,https://air.pc.cdn.bitgravity.com/air/live/pbaudio269/playlist.m3u8
+Akashvani Mokokchung,https://air.pc.cdn.bitgravity.com/air/live/pbaudio263/playlist.m3u8
+Akashvani Kohima,https://air.pc.cdn.bitgravity.com/air/live/pbaudio274/playlist.m3u8
+FM Tragopan Kohima,https://air.pc.cdn.bitgravity.com/air/live/pbaudio220/playlist.m3u8
+Akashvani Baripada,https://air.pc.cdn.bitgravity.com/air/live/pbaudio158/playlist.m3u8
+Akashvani Berhampur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio180/playlist.m3u8
+Akashvani Bhawanipatna,https://air.pc.cdn.bitgravity.com/air/live/pbaudio120/playlist.m3u8
+Akashvani Balangir,https://air.pc.cdn.bitgravity.com/air/live/pbaudio187/playlist.m3u8
+Akashvani Cuttack,https://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8
+FM Rainbow Cuttack,https://air.pc.cdn.bitgravity.com/air/live/pbaudio102/playlist.m3u8
+VBS Cuttack,https://air.pc.cdn.bitgravity.com/air/live/pbaudio103/playlist.m3u8
+Akashvani Jeypore,https://air.pc.cdn.bitgravity.com/air/live/pbaudio112/playlist.m3u8
+Akashvani Joranda,https://air.pc.cdn.bitgravity.com/air/live/pbaudio256/playlist.m3u8
+Akashvani Keonjhar,https://air.pc.cdn.bitgravity.com/air/live/pbaudio166/playlist.m3u8
+Akashvani Puri FM,https://air.pc.cdn.bitgravity.com/air/live/pbaudio100/playlist.m3u8
+Akashvani Rourkela,https://air.pc.cdn.bitgravity.com/air/live/pbaudio215/playlist.m3u8
+Akashvani Mahanadi Sambalpur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio182/playlist.m3u8
+Akashvani Sambalpur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio181/playlist.m3u8
+Akashvani Karaikal,https://air.pc.cdn.bitgravity.com/air/live/pbaudio050/playlist.m3u8
+Akashvani Puducherry,https://air.pc.cdn.bitgravity.com/air/live/pbaudio097/playlist.m3u8
+FM Rainbow Puducherry,https://air.pc.cdn.bitgravity.com/air/live/pbaudio098/playlist.m3u8
+Akashvani Bhatinda,https://air.pc.cdn.bitgravity.com/air/live/pbaudio117/playlist.m3u8
+FM Rainboww Jalandhar,https://air.pc.cdn.bitgravity.com/air/live/pbaudio134/playlist.m3u8
+Akashvani Patiala,https://air.pc.cdn.bitgravity.com/air/live/pbaudio163/playlist.m3u8
+Akashvani Alwar,https://air.pc.cdn.bitgravity.com/air/live/pbaudio153/playlist.m3u8
+Akashvani Banswara,https://air.pc.cdn.bitgravity.com/air/live/pbaudio014/playlist.m3u8
+Akashvani Barmer,https://air.pc.cdn.bitgravity.com/air/live/pbaudio200/playlist.m3u8
+Akashvani Bikaner,https://air.pc.cdn.bitgravity.com/air/live/pbaudio053/playlist.m3u8
+Akashvani Chittorgarh,https://air.pc.cdn.bitgravity.com/air/live/pbaudio060/playlist.m3u8
+Akashvani Churu,https://air.pc.cdn.bitgravity.com/air/live/pbaudio226/playlist.m3u8
+Akashvani Jaipur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio192/playlist.m3u8
+VBS Jaipur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio193/playlist.m3u8
+Akashvani Jaisalmer,https://air.pc.cdn.bitgravity.com/air/live/pbaudio206/playlist.m3u8
+Akashvani Jhalawar,https://air.pc.cdn.bitgravity.com/air/live/pbaudio157/playlist.m3u8
+Akashvani Jodhpur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio088/playlist.m3u8
+Akashvani Jodhpur Sun City FM,https://air.pc.cdn.bitgravity.com/air/live/pbaudio089/playlist.m3u8
+Akashvani Kota,https://air.pc.cdn.bitgravity.com/air/live/pbaudio084/playlist.m3u8
+Akashvani Mount Abu,https://air.pc.cdn.bitgravity.com/air/live/pbaudio159/playlist.m3u8
+Akashvani Nagaur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio170/playlist.m3u8
+Akashvani Sawai Madhopur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio119/playlist.m3u8
+Akashvani Suratgarh,https://air.pc.cdn.bitgravity.com/air/live/pbaudio064/playlist.m3u8
+Akashvani Udaipur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio148/playlist.m3u8
+Akashvani Udaipur FM Lake CIty,https://air.pc.cdn.bitgravity.com/air/live/pbaudio149/playlist.m3u8
+Akashvani Gangtok,https://air.pc.cdn.bitgravity.com/air/live/pbaudio227/playlist.m3u8
+FM Gold Chennai,https://air.pc.cdn.bitgravity.com/air/live/pbaudio021/playlist.m3u8
+VB Tamil Chennai,https://air.pc.cdn.bitgravity.com/air/live/pbaudio024/playlist.m3u8
+Akashvani Coimbatore,https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/playlist.m3u8
+FM Rainbow Coimbatore,https://air.pc.cdn.bitgravity.com/air/live/pbaudio017/playlist.m3u8
+Akashvani Dharmapuri,https://air.pc.cdn.bitgravity.com/air/live/pbaudio078/playlist.m3u8
+Akashvani Kodaikanal,https://air.pc.cdn.bitgravity.com/air/live/pbaudio051/playlist.m3u8
+Akashvani Madurai,https://air.pc.cdn.bitgravity.com/air/live/pbaudio127/playlist.m3u8
+FM Nagercoil Kumari ,https://air.pc.cdn.bitgravity.com/air/live/pbaudio129/playlist.m3u8
+Akashvani Ooty,https://air.pc.cdn.bitgravity.com/air/live/pbaudio207/playlist.m3u8
+Akashvani Tiruchirapalli ,https://air.pc.cdn.bitgravity.com/air/live/pbaudio041/playlist.m3u8
+Akashvani Tiruchirappalli FM,https://air.pc.cdn.bitgravity.com/air/live/pbaudio040/playlist.m3u8
+Akashvani Tirunelveli,https://air.pc.cdn.bitgravity.com/air/live/pbaudio061/playlist.m3u8
+FM RainbowTirunelveli ,https://air.pc.cdn.bitgravity.com/air/live/pbaudio062/playlist.m3u8
+Akashvani Tuticorin,https://air.pc.cdn.bitgravity.com/air/live/pbaudio121/playlist.m3u8
+Akashvani Telangana,https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8
+FM Rainbow Hyderabad ,https://air.pc.cdn.bitgravity.com/air/live/pbaudio031/playlist.m3u8
+VB:Telugu Hyderabad,https://air.pc.cdn.bitgravity.com/air/live/pbaudio034/playlist.m3u8
+Akashvani Kothagudem,https://air.pc.cdn.bitgravity.com/air/live/pbaudio116/playlist.m3u8
+Akashvani Nizamabad,https://air.pc.cdn.bitgravity.com/air/live/pbaudio222/playlist.m3u8
+Akashvani Warangal,https://air.pc.cdn.bitgravity.com/air/live/pbaudio154/playlist.m3u8
+Akashvani Agartala,https://air.pc.cdn.bitgravity.com/air/live/pbaudio131/playlist.m3u8
+FM Ujjayanta Agartala,https://air.pc.cdn.bitgravity.com/air/live/pbaudio130/playlist.m3u8
+Akashvani Belonia,https://air.pc.cdn.bitgravity.com/air/live/pbaudio257/playlist.m3u8
+Akashvani Kailashahar,https://air.pc.cdn.bitgravity.com/air/live/pbaudio276/playlist.m3u8
+Akashvani Agra,https://air.pc.cdn.bitgravity.com/air/live/pbaudio059/playlist.m3u8
+Akashvani Prayagraj,https://air.pc.cdn.bitgravity.com/air/live/pbaudio125/playlist.m3u8
+Akashvani Bareilly,https://air.pc.cdn.bitgravity.com/air/live/pbaudio124/playlist.m3u8
+Akashvani Ayodhya,https://air.pc.cdn.bitgravity.com/air/live/pbaudio152/playlist.m3u8
+Akashvani Gorakhpur,https://air.pc.cdn.bitgravity.com/air/live/pbaudio203/playlist.m3u8
+Akashvani Jhansi,https://air.pc.cdn.bitgravity.com/air/live/pbaudio099/playlist.m3u8
+KumbhVani,https://air.pc.cdn.bitgravity.com/air/live/pbaudio300/playlist.m3u8
+Akashvani Ujjain,https://air.pc.cdn.bitgravity.com/air/live/pbaudio233/playlist.m3u8
+Akashvani Ziro,https://air.pc.cdn.bitgravity.com/air/live/pbaudio301/playlist.m3u8
+Alternative (BAGeL Radio),https://ais-sa3.cdnstream1.com/2606_128.aac
+Alternative (The Alternative Project),http://c9.prod.playlists.ihrhls.com/4447/playlist.m3u8
+American Roots (Boot Liquor - SomaFM),http://somafm.com/bootliquor.pls
+Celtic (ThistleRadio - SomaFM),http://somafm.com/thistle.pls
+Chillout (Groove Salad - SomaFM),http://somafm.com/startstream=groovesalad.pls
+Groove Salad Classic (Early 2000s Ambient),https://somafm.com/gsclassic.pls
+n5MD Radio (Ambient and Experimental),https://somafm.com/n5md.pls
+Vaporwaves [SomaFM],https://somafm.com/vaporwaves.pls
+Commodore 64 Remixes (Slay Radio),http://www.slayradio.org/tune_in.php/128kbps/listen.m3u
+Covers (SomaFM),http://somafm.com/covers.pls
+Downtempo (Secret Agent - SomaFM),http://somafm.com/secretagent.pls
+Dub Step (Dub Step Beyond - SomaFM),http://somafm.com/dubstep.pls
+Electronic/Dance (Electronic Culture),http://www.shouted.fm/tunein/electro-dsl.m3u
+Folk (Folk Forward - SomaFM),http://somafm.com/folkfwd.pls
+Hip Hop (Hot 97 NYC),http://playerservices.streamtheworld.com/pls/WQHTAAC.pls
+Hip Hop (Power 1051 NYC),http://c11.prod.playlists.ihrhls.com/1481/playlist.m3u8
+House (Beat Blender - SomaFM),http://somafm.com/startstream=beatblender.pls
+Indie Pop (Indie Pop Rocks! - SomaFM),http://somafm.com/indiepop130.pls
+Intelligent dance music (Cliq Hop - SomaFM),http://somafm.com/startstream=cliqhop.pls
+Jazz (Sonic Universe - SomaFM),http://somafm.com/startstream=sonicuniverse.pls
+Lounge (Illinois Street Lounge - SomaFM),http://somafm.com/illstreet.pls
+The Trip: [SomaFM],https://somafm.com/thetrip.pls
+Pop (PopTron! - SomaFM),http://somafm.com/poptron.pls
+Pop/Rock/Urban  (Frequence 3 - Paris),http://streams.frequence3.net/hd-mp3.m3u
+Progressive (Tags Trance Trip - SomaFM),http://somafm.com/tagstrance.pls
+Public Radio (NPR National Public Radio Stream),https://npr-ice.streamguys1.com/live.mp3
+Reggae Dancehall (Ragga Kings),https://raggakings.radio:8443/stream.ogg
+Heavyweight Reggae,https://somafm.com/reggae.pls
+Rock (Digitalis - SomaFM),http://somafm.com/digitalis.pls
+Vox Noctem: Rock-Goth,http://r2d2.voxnoctem.de:8000/voxnoctem.mp3
+Beyond Metal (Progressive - Symphonic),http://streamingV2.shoutcast.com/BeyondMetal
+Metal Detector,https://somafm.com/metal.pls
+DanceUK,http://uk2.internet-radio.com:8024/listen.pls
+JazzGroove,http://199.180.72.2:8015/listen.pls\?sid\=1
+Radio Paradise - Main Mix,http://stream.radioparadise.com/aac-128
+Radio Paradise - Mellow Mix,http://stream.radioparadise.com/mellow-128
+Radio Paradise - Rock Mix,http://stream.radioparadise.com/rock-128
+Radio Paradise - Eclectic Mix,http://stream.radioparadise.com/eclectic-128
+Echoes of Bluemars,http://streams.echoesofbluemars.org:8000/bluemars.m3u
+Echoes of Bluemars - Cryosleep,http://streams.echoesofbluemars.org:8000/cryosleep.m3u
+Echoes of Bluemars - Voices from Within,http://streams.echoesofbluemars.org:8000/voicesfromwithin.m3u
+Synphaera Radio (Space Music),https://somafm.com/synphaera.pls
+Radio Levač (Serbian Folk & Country),http://213.239.205.210:8046/stream
+"Radio 35 (Serbian and English Pop, Folk, Country & Hits)",http://stream.radio035.net:8010/listen.pls
