@@ -9,7 +9,7 @@ A minimal terminal radio and YouTube player using `fzf` and `mpv`.
 |------|---------|---------|
 | `mpv` | Audio playback | `sudo apt install mpv` / `brew install mpv` |
 | `fzf` | Interactive menu | `sudo apt install fzf` / `brew install fzf` |
-| `yt-dlp` | YouTube stream resolution | `pip install yt-dlp` |
+| `yt-dlp` | YouTube stream resolution | `https://github.com/yt-dlp/yt-dlp/wiki/Installation#apt` |
 
 > `yt-dlp` must be available in `$PATH`. mpv uses it internally via `--ytdl-format=bestaudio`.
 
