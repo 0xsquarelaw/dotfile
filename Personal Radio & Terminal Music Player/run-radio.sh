@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
-RADIO_FILE="$HOME/radio-list.txt"
-YT_FILE="$HOME/youtube-list.txt"
+SCRIPT_DIR="$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")"
+RADIO_FILE="$SCRIPT_DIR/radio-list.txt"
+YT_FILE="$SCRIPT_DIR/youtube-list.txt"
 
 set_title() { printf '\033]0;%s\007' "$1"; }
 
